@@ -18,6 +18,29 @@ sources:
       Northern-rapids hazard notes — Gillard/Yuculta, Dent, Beazley (Surge
       Narrows), Seymour Narrows. Facts paraphrased, no verbatim text.
     license: Editorial — used under fair-use paraphrase, no text reproduced
+  - title: CHS Sailing Directions PAC201 — Juan de Fuca Strait and Strait of Georgia
+    url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-PAC201-eng-202405-41244539.pdf
+    used_for: >-
+      Primary hazard/timing/peak-speed source for Dodd Narrows, Active Pass,
+      Porlier Pass, Gabriola Passage, and Sechelt Rapids (Skookumchuck).
+    verified: '2024-05'
+    license: Government of Canada — reproducible under the Open Government Licence – Canada
+  - title: '48°North — "Passes of the Gulf Islands"'
+    url: https://48north.com/instructional/seamanship-and-navigation/passes-of-the-gulf-islands/
+    used_for: >-
+      State-specific hazard + traffic detail for Dodd, Active Pass, Porlier,
+      Gabriola. Facts paraphrased, no verbatim text.
+    license: Editorial — used under fair-use paraphrase, no text reproduced
+  - title: 'Canadian Boating — "BC Tidal Passes Part 1: Passes of the Gulf Islands"'
+    url: https://canadianboating.ca/destinations/bc-tidal-passes-part-1-passes-of-the-gulf-islands/
+    used_for: Corroborating Gulf Islands pass hazards and traffic notes.
+    license: Editorial — used under fair-use paraphrase, no text reproduced
+  - title: 'Pacific Yachting — "Navigating the BC Coast"'
+    url: https://www.pacificyachting.com/navigating-the-bc-coast/
+    used_for: >-
+      Hole in the Wall whirlpool/current detail (secondary; confidence noted in
+      the pass file).
+    license: Editorial — used under fair-use paraphrase, no text reproduced
   - title: Waggoner Cruising Guide; Canadian Boating
     used_for: Route and gate validation (PNW cruising references).
     license: Editorial — fact validation only
