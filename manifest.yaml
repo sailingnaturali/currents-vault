@@ -1,0 +1,23 @@
+# Provenance for the currents-vault gate + hazard data.
+# Station identity comes from public government current-prediction services;
+# hazard prose is paraphrased from cruising references (no verbatim text).
+sources:
+  - title: CHS Integrated Water Level System (IWLS) API
+    url: https://api.iwls.azure.cloud-nc.gc.ca/
+    used_for: >-
+      Station IDs, coordinates, and flood/ebb set directions for BC tidal gates.
+    verified: '2026-05-24'
+    license: Government of Canada — Open Government Licence – Canada
+  - title: NOAA CO-OPS Tidal Current Predictions
+    url: https://tidesandcurrents.noaa.gov/
+    used_for: US gate (Boundary Pass) station and current bin.
+    license: US Government work — public domain
+  - title: '48°North — "Transiting the Passes to Get You Beyond Desolation Sound"'
+    url: https://48north.com/cruising/cruising-technique/transiting-the-passes-to-get-you-beyond-desolation-sound/
+    used_for: >-
+      Northern-rapids hazard notes — Gillard/Yuculta, Dent, Beazley (Surge
+      Narrows), Seymour Narrows. Facts paraphrased, no verbatim text.
+    license: Editorial — used under fair-use paraphrase, no text reproduced
+  - title: Waggoner Cruising Guide; Canadian Boating
+    used_for: Route and gate validation (PNW cruising references).
+    license: Editorial — fact validation only
