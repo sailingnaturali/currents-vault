@@ -22,9 +22,20 @@ sources:
     url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-PAC201-eng-202405-41244539.pdf
     used_for: >-
       Primary hazard/timing/peak-speed source for Dodd Narrows, Active Pass,
-      Porlier Pass, Gabriola Passage, and Sechelt Rapids (Skookumchuck).
+      Porlier Pass, Gabriola Passage, Sechelt Rapids (Skookumchuck), and Race
+      Passage / Race Rocks.
     verified: '2024-05'
     license: Government of Canada — reproducible under the Open Government Licence – Canada
+  - title: Race Rocks Ecological Reserve — tidal currents at Race Rocks
+    url: https://racerocks.ca/tidal-currents-and-current-measurement-at-race-rocks/
+    used_for: Corroborating Race Rocks hazard geography and measured current peaks.
+    license: Editorial — used under fair-use paraphrase, no text reproduced
+  - title: 'Wikipedia — "Cordero Channel"'
+    url: https://en.wikipedia.org/wiki/Cordero_Channel
+    used_for: >-
+      Arran Rapids qualitative hazard/history (whirlpools, boils; medium
+      confidence, no primary peak-speed data). See the pass file's confidence note.
+    license: CC BY-SA — paraphrased
   - title: '48°North — "Passes of the Gulf Islands"'
     url: https://48north.com/instructional/seamanship-and-navigation/passes-of-the-gulf-islands/
     used_for: >-
