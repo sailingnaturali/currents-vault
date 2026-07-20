@@ -3,7 +3,7 @@
 # hazard prose is paraphrased from cruising references (no verbatim text).
 sources:
   - title: CHS Integrated Water Level System (IWLS) API
-    url: https://api.iwls.azure.cloud-nc.gc.ca/
+    url: https://api-sine.dfo-mpo.gc.ca/api/v1
     used_for: >-
       Station IDs, coordinates, and flood/ebb set directions for BC tidal gates.
     verified: '2026-05-24'
