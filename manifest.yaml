@@ -23,9 +23,37 @@ sources:
     used_for: >-
       Primary hazard/timing/peak-speed source for Dodd Narrows, Active Pass,
       Porlier Pass, Gabriola Passage, Sechelt Rapids (Skookumchuck), and Race
-      Passage / Race Rocks.
+      Passage / Race Rocks. Also the primary source for Calamity Point (First
+      Narrows), Second Narrows (both bridges and the lift-span signals),
+      Tillicum Bridge (Gorge clearances, 6-knot maximum, Portage Inlet tidal
+      anomaly), Boundary Pass, and Juan de Fuca - East.
     verified: '2024-05'
     license: Government of Canada — reproducible under the Open Government Licence – Canada
+  - title: US Coast Pilot 10, Chapter 7 (NOAA)
+    url: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp10/CPB10_C07_WEB.pdf
+    used_for: >-
+      US-side primary source for Boundary Pass (Turn Point, Rosenfeld Rock,
+      Skipjack, Patos) and Juan de Fuca - East (fog climatology, sea breeze,
+      gale frequency, ebb set along the south shore).
+    verified: '2026-07-12'
+    license: US Government work — public domain
+    note: >-
+      Chapter renumbering — this material was Coast Pilot 7 Chapter 12 in older
+      editions and is now Coast Pilot 10 Chapter 7.
+  - title: Vancouver Fraser Port Authority — Port Information Guide
+    url: https://www.portvancouver.com/sites/default/files/2024-08/2024-01-15-PORT-INFORMATION-GUIDE.pdf
+    used_for: >-
+      First Narrows traffic control zone rules for Calamity Point — single-lane
+      channel, the prohibition on sail and paddle propulsion, speed limits, and
+      small-craft obligations around commercial traffic.
+    verified: '2025-02'
+    license: Port authority publication — paraphrased, no text reproduced
+  - title: Capital Regional District — Gorge Waterway
+    url: https://www.crd.ca/environment/stormwater-watersheds-harbours/harbours/gorge-waterway
+    used_for: >-
+      Tillicum Bridge context — average depth under 5 m, reversing tidal falls,
+      Migratory Bird Sanctuary speed and wake restrictions.
+    license: Municipal government publication — paraphrased
   - title: Race Rocks Ecological Reserve — tidal currents at Race Rocks
     url: https://racerocks.ca/tidal-currents-and-current-measurement-at-race-rocks/
     used_for: Corroborating Race Rocks hazard geography and measured current peaks.
