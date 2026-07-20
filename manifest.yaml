@@ -29,6 +29,32 @@ sources:
       anomaly), Boundary Pass, and Juan de Fuca - East.
     verified: '2024-05'
     license: Government of Canada — reproducible under the Open Government Licence – Canada
+  - title: CHS Sailing Directions PAC202 — Discovery Passage to Queen Charlotte Strait
+    url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-PAC202-eng-202307-41120188.pdf
+    used_for: >-
+      Primary source for the northern gates — Weynton Passage (6-knot streams,
+      Stephenson Islet and Weynton Island foul ground, Pearse Passage),
+      Blackney Passage (Cracroft Point races, Bell Rocks circulation), and
+      Johnstone Strait - Central (ebb dominance and residual flow, the
+      Kelsey Bay–Port Neville rip caution, cross-channel variation, traffic
+      separation scheme, Robson Bight).
+    verified: '2023-07'
+    license: Government of Canada — reproducible under the Open Government Licence – Canada
+    note: >-
+      A 2025/02 edition exists and has not been diffed against this one.
+  - title: DFO Pacific Marine Science Report 81-22 — Tidal Currents in Johnstone Strait
+    url: https://waves-vagues.dfo-mpo.gc.ca/Library/58804.pdf
+    used_for: >-
+      Blackney Passage slack offsets — why its slack references Seymour Narrows
+      rather than surface slack in Johnstone Strait.
+    license: Government of Canada — Open Government Licence – Canada
+  - title: Fisheries and Oceans Canada — Watching marine wildlife
+    url: https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/watching-observation/index-eng.html
+    used_for: >-
+      Killer whale approach distances for the northern gates — the 200 m rule
+      that applies there, and the geographic bound of the 1,000 m Southern
+      Resident distance, which does not reach them.
+    license: Government of Canada — Open Government Licence – Canada
   - title: US Coast Pilot 10, Chapter 7 (NOAA)
     url: https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp10/CPB10_C07_WEB.pdf
     used_for: >-
